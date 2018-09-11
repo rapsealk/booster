@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="thread.cc" />
+    <ClCompile Include="active_tcp_connect_client.cc" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

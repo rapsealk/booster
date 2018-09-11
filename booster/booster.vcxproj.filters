@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="thread.cc">
+    <ClCompile Include="active_tcp_connect_client.cc">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
